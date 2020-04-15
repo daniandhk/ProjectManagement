@@ -1,2 +1,2 @@
 # ProjectManagement
-Aplikasi Java Project Management {Tugas Besar PBO (Pemrograman Berorientasi Objek)}
+Aplikasi Java: Project Management Tugas Besar PBO (Pemrograman Berorientasi Objek) 
